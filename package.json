@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samizdatco/skia-canvas.git"
+    "url": "git+https://github.com/chrxmvtik/skia-canvas.git"
   },
   "bugs": {
     "url": "https://github.com/samizdatco/skia-canvas/issues"
@@ -25,21 +25,21 @@
     "test": "jest"
   },
   "dependencies": {
-    "@mapbox/node-pre-gyp": "^1.0.9",
-    "cargo-cp-artifact": "^0.1",
-    "glob": "^8.0.3",
+    "@mapbox/node-pre-gyp": "^1.0.11",
+    "cargo-cp-artifact": "^0.1.8",
+    "glob": "^8.1.0",
     "path-browserify": "^1.0.1",
     "simple-get": "^4.0.1",
     "string-split-by": "^1.0.0"
   },
   "devDependencies": {
-    "@types/jest": "^28.1.6",
-    "@types/node": "^18.6.1",
-    "aws-sdk": "^2.1181.0",
-    "express": "^4.18.1",
+    "@types/jest": "^28.1.8",
+    "@types/node": "^18.16.19",
+    "aws-sdk": "^2.1416.0",
+    "express": "^4.18.2",
     "jest": "^28.1.3",
     "lodash": "^4.17.21",
-    "nodemon": "^2.0.19",
+    "nodemon": "^2.0.22",
     "tmp": "^0.2.1"
   },
   "files": [
