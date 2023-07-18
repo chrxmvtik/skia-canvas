@@ -1,5 +1,5 @@
 {
-  "name": "skia-canvas",
+  "name": "@chrxmvtik/skia-canvas",
   "version": "1.0.1",
   "description": "A GPU-accelerated Canvas Graphics API for Node",
   "author": "Christian Swinehart <drafting@samizdat.co>",
